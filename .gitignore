@@ -1,0 +1,14 @@
+# Rust
+
+/target
+
+# IDE
+
+*.iml
+.idea
+.vscode
+.junie
+
+# Other
+
+.bak
